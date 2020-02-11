@@ -1,10 +1,10 @@
-# Lesson 2: React Template Project
+# Oppitunti 2: React Template Project
 
 This is a template for a new React project. It includes all necessary bootstrap code to help you start writing your application logic immediately.
 
 The purpose of this lesson is to learn the basics of a distributed version control, and deploy your first application to a hosted server. The exercises below will take you through the common operations using Git and Github, creating a Heroku server and deploying your application there. As a result you have also mastered writing a new React application using a template you could reuse and reproduce yourself. No magic involved.
 
-
+Tämä projekti on siisti!
 ## Task 1: Getting started
 
 1. Create an account on Github
